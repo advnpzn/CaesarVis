@@ -8,6 +8,7 @@ Caesar Cipher Encryption on every Pixel (RGBA) of an image.
 `F5` - To Run
 
 `RIGHT ARROW` - To increase Shift by 1
+
 `LEFT ARROW` - To decrease Shift by 1
 
 ## Build Yourself
